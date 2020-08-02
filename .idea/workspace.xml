@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7dcbdb9b-eeed-44ec-a54a-1f27104adf8d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Sites/apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fXMHoayKKNLf1gWMMu2F9hhU7k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lucene-begin/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.34020618" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lucene-begin/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LuceneBegin.searchIndex">
+    <configuration name="LuceneBegin.createIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lucene-begin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yz.lucene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yz.lucene" />
+      <option name="MAIN_CLASS_NAME" value="com.yz.lucene.LuceneBegin" />
+      <option name="METHOD_NAME" value="createIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LuceneBegin.searchIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lucene-begin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yz.lucene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yz.lucene" />
+      <option name="MAIN_CLASS_NAME" value="com.yz.lucene.LuceneBegin" />
+      <option name="METHOD_NAME" value="searchIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LuceneBegin.searchIndex" />
+        <item itemvalue="JUnit.LuceneBegin.createIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dcbdb9b-eeed-44ec-a54a-1f27104adf8d" name="Default Changelist" comment="" />
+      <created>1596359898992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596359898992</updated>
+      <workItem from="1596359900509" duration="4265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="186" key="#Project_Structure" timestamp="1596360449416">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="186" key="#Project_Structure/-1418.-2137.3840.2089/0.23.1680.1027@0.23.1680.1027" timestamp="1596360449416" />
+    <state x="440" y="178" key="#Project_Structure/-1418.-2137.3840.2137/0.23.1680.979@0.23.1680.979" timestamp="1596360101611" />
+    <state width="1638" height="417" key="GridCell.Tab.0.bottom" timestamp="1596364929592">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="417" key="GridCell.Tab.0.bottom/-1418.-2137.3840.2089/0.23.1680.1027@0.23.1680.1027" timestamp="1596364929592" />
+    <state width="1638" height="417" key="GridCell.Tab.0.center" timestamp="1596364929592">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="417" key="GridCell.Tab.0.center/-1418.-2137.3840.2089/0.23.1680.1027@0.23.1680.1027" timestamp="1596364929592" />
+    <state width="1638" height="417" key="GridCell.Tab.0.left" timestamp="1596364929591">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="417" key="GridCell.Tab.0.left/-1418.-2137.3840.2089/0.23.1680.1027@0.23.1680.1027" timestamp="1596364929591" />
+    <state width="1638" height="417" key="GridCell.Tab.0.right" timestamp="1596364929592">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="417" key="GridCell.Tab.0.right/-1418.-2137.3840.2089/0.23.1680.1027@0.23.1680.1027" timestamp="1596364929592" />
+    <state x="544" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596363636425">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="544" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1418.-2137.3840.2137/0.23.1680.979@0.23.1680.979" timestamp="1596363636425" />
+    <state x="217" y="135" key="new project wizard" timestamp="1596360076680">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="217" y="135" key="new project wizard/-1418.-2137.3840.2137/0.23.1680.979@0.23.1680.979" timestamp="1596360076680" />
+    <state x="505" y="236" key="run.anything.popup" timestamp="1596362451673">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="505" y="236" key="run.anything.popup/-1418.-2137.3840.2137/0.23.1680.979@0.23.1680.979" timestamp="1596362451673" />
+    <state x="505" y="238" width="670" height="676" key="search.everywhere.popup" timestamp="1596363619896">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="505" y="238" width="670" height="676" key="search.everywhere.popup/-1418.-2137.3840.2137/0.23.1680.979@0.23.1680.979" timestamp="1596363619896" />
+  </component>
+</project>
